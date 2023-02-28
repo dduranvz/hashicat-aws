@@ -7,7 +7,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "YOURORGANIZATION"
     workspaces {
-      name = "YOURWORKSPACE"
+      name = "mywork"
     }
   }
 }
